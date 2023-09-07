@@ -5,7 +5,7 @@
 
 <p align="center">- 🔭 I’m currently working on [<a href="https://github.com/gabrielshy/Student-Resource-Site">StudentPluh</a>]</p>
 
-<p align="center">- 🌱 I’m currently learning <b>Flask, JavaScript, and Swift</b></p>
+<p align="center">- 🌱 I’m currently learning <b>Embedded C</b></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at https://gabrielshy.github.io/</p>
 
