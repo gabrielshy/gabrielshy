@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielshy&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielshy" /> </p>
 
-<p align="center">- 🔭 I’m currently working on [<a href="https://github.com/gabrielshy/Student-Resource-Site">StudentPluh</a>]</p>
+<p align="center">- 🔭 I’m currently working on the <b>PhilSA Website</b></p>
 
-<p align="center">- 🌱 I’m currently learning <b>Embedded C</b></p>
+<p align="center">- 🌱 I’m currently learning <b>React and TailwindCSS</b></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at https://gabrielshy.github.io/</p>
 
