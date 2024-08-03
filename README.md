@@ -5,7 +5,7 @@
 
 <p align="center">- 🔭 I’m currently working on the <b>PhilSA Website</b> as well as my personal AI Assistant web app</p> 
 
-<p align="center">- 🌱 I’m currently learning <b>React and TailwindCSS</b></p>
+<p align="center">- 🌱 I’m currently learning <b>Postgres, Typescript, and Backend Technologies</b></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at https://gabrielshy.github.io/</p>
 
